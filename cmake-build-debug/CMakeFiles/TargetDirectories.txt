@@ -1,0 +1,3 @@
+C:/Users/Aluno/Documents/GitHub/FlipCoin/cmake-build-debug/CMakeFiles/FlipCoin.dir
+C:/Users/Aluno/Documents/GitHub/FlipCoin/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Aluno/Documents/GitHub/FlipCoin/cmake-build-debug/CMakeFiles/rebuild_cache.dir
